@@ -4,4 +4,5 @@ function playRockPaperScissor(player1,player2){
     return
 
 }
-
+playRockPaperScissor(pedra,tesoura);
+console.log(playRockPaperScissor(pedra,tesoura));
