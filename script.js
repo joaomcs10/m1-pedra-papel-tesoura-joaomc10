@@ -1,1 +1,1 @@
-/* Desenvolva seu código abaixo */
+console.log( 'primeiras palavras')
