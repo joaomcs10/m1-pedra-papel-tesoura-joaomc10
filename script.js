@@ -38,5 +38,5 @@ function playRockPaperScissor(player1,player2){
     
 
 }
-resultado = playRockPaperScissor(papel,pedra);
-console.log(resultado)
+
+console.log(playRockPaperScissor("papel","papel"))
